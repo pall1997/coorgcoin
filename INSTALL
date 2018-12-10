@@ -1,0 +1,9 @@
+Building Coorgcoin
+
+See doc/readme-qt.rst for instructions on building Coorgcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Coorgcoin.
+
+See doc/build-*.txt for instructions on building coorgcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Coorgcoin.
