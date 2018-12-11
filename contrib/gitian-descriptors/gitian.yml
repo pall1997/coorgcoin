@@ -42,7 +42,7 @@ script: |
   make $MAKEOPTS install
   cd ..
   #
-  unzip coorgcoin.zip
+  tar coorgcoin.tar.gz
   cp -r coorgcoin $OUTDIR/src
   cp -r coorgcoin nsis
   cd coorgcoin
